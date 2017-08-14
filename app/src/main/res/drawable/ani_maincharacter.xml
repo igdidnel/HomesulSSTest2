@@ -1,0 +1,15 @@
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/beericon1" android:duration="3"/>
+    <item android:drawable="@drawable/beericon2" android:duration="3"/>
+    <item android:drawable="@drawable/beericon3" android:duration="3"/>
+    <item android:drawable="@drawable/beericon4" android:duration="3"/>
+    <item android:drawable="@drawable/beericon5" android:duration="3"/>
+    <item android:drawable="@drawable/beericon6" android:duration="3"/>
+    <item android:drawable="@drawable/beericon7" android:duration="3"/>
+    <item android:drawable="@drawable/beericon8" android:duration="3"/>
+    <item android:drawable="@drawable/beericon9" android:duration="3"/>
+    <item android:drawable="@drawable/beericon10" android:duration="3"/>
+    <item android:drawable="@drawable/beericon11" android:duration="3"/>
+    <item android:drawable="@drawable/beericon12" android:duration="3"/>
+    <item android:drawable="@drawable/beericon13" android:duration="3"/>
+</animation-list>
